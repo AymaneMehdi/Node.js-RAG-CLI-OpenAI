@@ -2,13 +2,13 @@
   "name": "node.js-rag-cli-openai",
   "version": "1.0.0",
   "description": "A simple CLI-based Retrieval-Augmented Generation (RAG) system built with Node.js. It loads local documents, generates embeddings, performs similarity search, and uses an LLM to answer user questions.",
-  "homepage": "https://github.com/AymaneMehdi/Nodejs-RAG-CLI-OpenAI#readme",
+  "homepage": "https://github.com/AymaneMehdi/Node.js-RAG-CLI-OpenAI#readme",
   "bugs": {
-    "url": "https://github.com/AymaneMehdi/Nodejs-RAG-CLI-OpenAI/issues"
+    "url": "https://github.com/AymaneMehdi/Node.js-RAG-CLI-OpenAI/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AymaneMehdi/Nodejs-RAG-CLI-OpenAI.git"
+    "url": "git+https://github.com/AymaneMehdi/Node.js-RAG-CLI-OpenAI.git"
   },
   "license": "ISC",
   "author": "Aymane Mehdi",
