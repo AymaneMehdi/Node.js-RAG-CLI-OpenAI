@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-rag-cli-openai",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/AymaneMehdi/Nodejs-RAG-CLI-OpenAI#readme",
+  "bugs": {
+    "url": "https://github.com/AymaneMehdi/Nodejs-RAG-CLI-OpenAI/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AymaneMehdi/Nodejs-RAG-CLI-OpenAI.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "openai": "^6.35.0"
+  }
+}
